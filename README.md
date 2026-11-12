@@ -1,4 +1,4 @@
-# Sensor Fusion Embedded Solution Prototype
+# Sensor Fusion Unit - Embedded System Prototype
 ## Description
 Subsea vehicles such as ROVs and AUVs are equipped with various sensors, primarily for determining the vehicle's precise orientation and heading within the operating space or for mapping out the surrounding environment.  The issue is each sensor likely sampled at a unique speed, and if each reading is processed sequentially such as in a single-threaded C program, it is then likely that each reading will be associated with the incorrect moment in time.  As a result, the reported orientation or produced image will be considerably distorted and probably useless for the end user.  
 
