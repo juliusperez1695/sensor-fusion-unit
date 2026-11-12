@@ -12,7 +12,7 @@ To address this time discrepancy between measurements, a system-on-chip (SoC) so
 
 ## Things to Consider
 * Can hardware design be simply expanded to handle more sensors?
-* Can software design handle fusion for both orientation data and environmental mapping?
+* Can software design handle sensor fusion for both orientation and environmental mapping?
 
 ## System/Module Design
 [System Overview]
