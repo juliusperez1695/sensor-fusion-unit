@@ -10,6 +10,10 @@ To address this time discrepancy between measurements, a system-on-chip (SoC) so
 * Sensors of choice (ex. Inertial Measurement Unit and simulated DVL strings for vehicle orientation)
 * Python for generating test inputs
 
+## Things to Consider
+* Can hardware design be simply expanded to handle more sensors?
+* Can software design handle fusion for both orientation data and environmental mapping?
+
 ## System/Module Design
 [System Overview]
 
