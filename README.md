@@ -16,7 +16,7 @@ To address this time discrepancy between measurements, a system-on-chip (SoC) so
 
 ## System/Module Design
 System-Level Block Diagram
-![System-Level Block Diagram](images/System-Level%20Block%20Diagram%20-%20Sensor%20Fusion%20Unit.png)
+![System-Level Block Diagram](images/System%20Architecture%20Block%20Diagram%20-%20Sensor%20Fusion%20Unit.pngit.png)
 
 [Timestamping Module - Digital Logic Block]
 
