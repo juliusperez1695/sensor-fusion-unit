@@ -15,8 +15,8 @@ To address this time discrepancy between measurements, a system-on-chip (SoC) so
 * Can software design handle sensor fusion for both orientation and environmental mapping?
 
 ## System/Module Design
-System-Level Block Diagram
-![System-Level Block Diagram](images/System%20Architecture%20Block%20Diagram%20-%20Sensor%20Fusion%20Unit.png)
+System Architecture Block Diagram
+![System Architecture Block Diagram](images/System%20Architecture%20Block%20Diagram%20-%20Sensor%20Fusion%20Unit.png)
 
 [Timestamping Module - Digital Logic Block]
 
