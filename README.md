@@ -12,10 +12,6 @@ The desired outcome of this project is to demonstrate the ingestion of real (and
 * Sensors of choice (ex. Inertial Measurement Unit and simulated DVL strings for vehicle orientation)
 * Python for generating test inputs
 
-## Things to Consider
-* Can the final hardware design be simply expanded to handle more sensors?
-* Can software design handle sensor fusion for both orientation and environmental mapping?
-
 ## System/Module Design
 System Architecture Block Diagram
 ![System Architecture Block Diagram](images/System%20Architecture%20Block%20Diagram%20-%20Sensor%20Fusion%20Unit.png)
