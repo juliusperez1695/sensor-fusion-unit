@@ -7,7 +7,7 @@ To address this time discrepancy between measurements and ultimately improve on 
 The desired outcome of this project is to demonstrate the ingestion of real (and/or simulated, depending on hardware availability) readings from a variety of subsea sensor inputs and show that the resulting output state vector is in an acceptable format for the applicable vehicle.  Upon conclusion of this design, an extension to accept and fuse visual data with inertial data on the SFU for environmental mapping shall be explored.  
 
 ## Required Equipment/Software
-* Xilinx Zybo Z7-10/20 Development Board (Zync-7000 SoC)
+* Digilent Zybo Z7-10/20 Development Board (Xilinx Zync-7000 SoC)
 * Micro USB Cable
 * Sensors of choice (ex. Inertial Measurement Unit and simulated DVL strings for vehicle orientation)
 * Python for generating test inputs
