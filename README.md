@@ -16,7 +16,7 @@ The desired outcome of this project is to demonstrate the ingestion of real (and
 System Architecture Block Diagram
 ![System Architecture Block Diagram](images/System%20Architecture%20Block%20Diagram%20-%20Sensor%20Fusion%20Unit.png)
 
-![Hardware Timestamping Module](images/Hardware_Timestamp_Module.png)
+![Hardware Timestamping Module](images/Edge_Detection_Logic.png)
 
 [Sensor Fusion - Software Block]
 
